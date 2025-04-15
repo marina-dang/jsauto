@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# 忽略浏览器文件（Playwright 会自动下载，不要上传）
+.playwright/
+
+# env
+.env
+
+# ide
+.vscode/
+
+# system files
+.DS_Store
+Thumbs.db
